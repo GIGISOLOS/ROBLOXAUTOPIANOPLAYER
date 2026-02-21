@@ -1,0 +1,1 @@
+this piano player can <img width="588" height="614" alt="image" src="https://github.com/user-attachments/assets/4f4235d3-6c7f-4f5e-bd68-89939ef6c361" /> play all of those specific notes and can do single note too u just input sheets and it automates everything and then inputs all of this using pynput
